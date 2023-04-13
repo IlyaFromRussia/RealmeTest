@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<paths>
+    <!-- https://stackoverflow.com/questions/32333094/android-fileprovider-for-ext-sdcard -->
+    <root-path name="sdcard" path="/storage/" />
+    <!-- WARNING! don't add any file paths to private data here! -->
+</paths>
